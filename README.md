@@ -27,8 +27,8 @@ The notebook contains **20 practice questions** based on real-world nested JSON 
 ---
 
 ## 📂 Folder Structure
-- [data](Input_Json_File/company_nested_data.json)
-- [notebook](Notebook/Company_Nested_JSON_Data_Parsing.ipynb)
+- [data](https://github.com/RadhikaDeshpande1010/Company-Nested-Json-Data-Parsing/blob/main/data/company_nested_data.json)
+- [notebook](https://github.com/RadhikaDeshpande1010/Company-Nested-Json-Data-Parsing/blob/main/notebook/Company_Nested_JSON_Data_Parsing.ipynb)
 
 ---
 
