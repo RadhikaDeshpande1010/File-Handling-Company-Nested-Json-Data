@@ -1,4 +1,4 @@
-<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> Company Nested JSON Data Parsing (Python) </h1>
+<h1><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python-icon/python-icon.png" height="30" width="30"></sub> Company Nested JSON Data Parsing </h1>
 
 <img src="https://github.com/RadhikaDeshpande1010/Company-Nested-Json-Data-Parsing/blob/main/banner.png">
 
