@@ -1,0 +1,92 @@
+{
+    "company": {
+        "name": "TechNova",
+        "departments": [
+            {
+                "dept_id": 101,
+                "dept_name": "IT",
+                "employees": [
+                    {
+                        "emp_id": 1,
+                        "name": "Amit",
+                        "skills": [
+                            "Python",
+                            "SQL"
+                        ],
+                        "salary": 60000
+                    },
+                    {
+                        "emp_id": 2,
+                        "name": "Riya",
+                        "skills": [
+                            "Java",
+                            "Spring"
+                        ],
+                        "salary": 55000
+                    },
+                    {
+                        "emp_id": 3,
+                        "name": "Suresh",
+                        "skills": [
+                            "Python",
+                            "Django"
+                        ],
+                        "salary": 65000
+                    }
+                ]
+            },
+            {
+                "dept_id": 102,
+                "dept_name": "HR",
+                "employees": [
+                    {
+                        "emp_id": 4,
+                        "name": "Neha",
+                        "skills": [
+                            "Recruitment"
+                        ],
+                        "salary": 45000
+                    },
+                    {
+                        "emp_id": 5,
+                        "name": "Rahul",
+                        "skills": [
+                            "Communication",
+                            "Excel"
+                        ],
+                        "salary": 40000
+                    }
+                ]
+            },
+            {
+                "dept_id": 103,
+                "dept_name": "Finance",
+                "employees": [
+                    {
+                        "emp_id": 6,
+                        "name": "Karan",
+                        "skills": [
+                            "Accounting",
+                            "Excel"
+                        ],
+                        "salary": 70000
+                    },
+                    {
+                        "emp_id": 7,
+                        "name": "Pooja",
+                        "skills": [
+                            "Taxation"
+                        ],
+                        "salary": 68000
+                    }
+                ]
+            }
+        ],
+        "locations": [
+            "Delhi",
+            "Mumbai",
+            "Bangalore",
+            "Hyderabad"
+        ]
+    }
+}
